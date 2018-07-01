@@ -128,4 +128,22 @@ h4 {
   color: #ffffff;
   margin-bottom: 35px;
 }
+ #reset_button {
+   display: none
+ }
+ #left_button_two {
+   display: none
+ }
+ #right_button_two {
+   display: none
+ }
+ #confirm_button {
+   display: none
+ }
+ #username_input {
+   display: none
+ }
+ #password_input {
+   display: none
+ }
 

@@ -10,9 +10,9 @@ class Password extends Component {
             userArray: ['cat'],
             result: ''
         }
-        this.confirmNewUser = this.confirmNewUser.bind(this)
-        this.handleChangePass = this.handleChangePass.bind(this)
-        this.handleChangeUse = this.handleChangeUse.bind(this)
+        // this.confirmNewUser = this.confirmNewUser.bind(this)
+        // this.handleChangePass = this.handleChangePass.bind(this)
+        // this.handleChangeUse = this.handleChangeUse.bind(this)
     }
 
     createUser(user,pass){

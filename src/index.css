@@ -140,10 +140,13 @@ h4 {
  #confirm_button {
    display: none
  }
- #username_input {
-   display: none
- }
- #password_input {
-   display: none
- }
+#test_input {
+  display: none
+}
+#password_div {
+  height: 400px;
+}
+#placeholder_p {
+  display: none
+}
 
